@@ -1,2 +1,0 @@
-# ICEProjektMemory
-ICE Projekt
